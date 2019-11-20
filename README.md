@@ -104,93 +104,93 @@ ch332	| Kumagera	| AID_
 
 # Class IDs 	Male=男	Female=女
 
-| Class name		| JID Kanji 		| Body Model uBody_M/F_	| Outer Model		| Mount Model		| Mount Outer		| Accessory 1	| Accessory 3	| Accessory 3
-| ---				| --- 				| ---
-Nohr Noble			| JID_ダークブラッド		| load_2				| load_upp2_0		|					|					| acc_Shieldloadu2F_(r_arm1) |	|
-Nohr Prince			| JID_ダークプリンス
-Nohr Princess		| JID_ダークプリンセス
-Hoshiden Noble		| JID_白の血族
-Paladin				| JID_パラディン
-Cavalier			| JID_ソシアルナイト
-Great Knight		| JID_グレートナイト
-Knight				| JID_アーマーナイト
-General				| JID_ジェネラル
-Berserker			| JID_バーサーカー
-Fighter				| JID_アクスファイター
-Hero				| JID_ブレイブヒーロー
-Mercenary			| JID_マーシナリー
-Bow Knight			| JID_ボウナイト
-Outlaw				| JID_シーフ
-Adventurer			| JID_アドベンチャラー
-Swordmaster			| JID_剣聖
-Samurai				| JID_侍
-Master of Arms		| JID_兵法者
-Oni Chieftain		| JID_修羅
-Oni Savage			| JID_鬼人
-Blacksmith			| JID_鍛冶
-Spear Master		| JID_槍聖
-Spear Fighter 		| JID_槍術士
-Basara				| JID_婆娑羅
-Diviner				| JID_呪い師
-Onmyoji				| JID_陰陽師
-Monk				| JID_修験者
-Shrine Maiden		| JID_巫女
-Great Master		| JID_山伏
-Priestess			| JID_戦巫女
-Falcon Knight		| JID_聖天馬武者
-Sky Knight			| JID_天馬武者
-Kinshi Knight 		| JID_金鵄武者
-Archer				| JID_弓使い
-Sniper				| JID_弓聖
-Wyvern Lord			| JID_ドラゴンマスター
-Wyvern Rider		| JID_ドラゴンナイト
-Malig Knight		| JID_レヴナントナイト
-Master Ninja		| JID_上忍
-Ninja				| JID_忍
-Mechanist			| JID_絡繰師
-Apothecary			| JID_薬商人
-Merchant			| JID_大商人
-Sorcerer			| JID_ソーサラー
-Dark Mage			| JID_ダークマージ
-Dark Knight			| JID_ダークナイト
-Strategist			| JID_ストラテジスト
-Troubadour			| JID_ロッドナイト
-Butler				| JID_バトラー
-Maid				| JID_メイド
-Wolf Skin			| JID_ガルー
-Wolfssegner			| JID_マーナガルム
-Kitsune				| JID_妖狐
-Nine-Tails			| JID_九尾の狐
-Sonstress			| JID_歌姫
-Villager			| JID_村人
-Lancer				| JID_ランサー
-Faceless			| JID_ノスフェラトゥ
-Stoneborn			| JID_ゴーレム
-Automaton			| JID_絡繰人形
-Astral Dragon		| JID_星竜
-Feral Dragon		| JID_竜
-Blight Dragon		| JID_暗夜竜
-Silent Dragon 1		| JID_透魔竜１
-Silent Dragon 2 	| JID_透魔竜２
-Nohrain King		| JID_ダークロード
-Ematy Vessel		| JID_水の眷属
-Dread Fighter		| JID_魔戦士
-Dark Falvcon		| JID_ダークペガサス
-Ballistician		| JID_シューター
-Witch				| JID_魔女
-Lodestar			| JID_スターロード
-Vanguard			| JID_ヴァンガード
-Great Lord			| JID_マスターロード
-Grandmaster			| JID_神軍師
-Outrealm Class		| JID_不明
-Lord DLC			| JID_E006_クロム
-Great Knight DLC	| JID_E006_フレデリク
-Cleric DLC			| JID_E006_リズ
-Myrmidon DLC		| JID_E007_ウード
-Mercenary DLC M		| JID_E007_アズール
-Mercenary DLC F 	| JID_E007_セレナ
-Pegasus Knight DLC	| JID_サイファペガサス
-Silent Dragon DLC	| JID_E040_透魔竜
+| Class name		| JID Kanji 		| Body Model uBody_M/F_	| Outer Model Udres	| Mount Model		| Mount Outer		| Accessory 1	| Accessory 3	| Accessory 3 |
+| ---				| --- 				| ---					| ---				| ---				| ---				| ---			| ---			| --- |
+Nohr Noble			| JID_ダークブラッド		| load_2				| load_upp2_0		| ---				| ---				| acc_Shieldloadu2F_(r_arm1) | ---	| ---
+Nohr Prince			| JID_ダークプリンス		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Nohr Princess		| JID_ダークプリンセス	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Hoshiden Noble		| JID_白の血族		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Paladin				| JID_パラディン		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Cavalier			| JID_ソシアルナイト	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Great Knight		| JID_グレートナイト	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Knight				| JID_アーマーナイト	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+General				| JID_ジェネラル		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Berserker			| JID_バーサーカー		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Fighter				| JID_アクスファイター	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Hero				| JID_ブレイブヒーロー	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Mercenary			| JID_マーシナリー		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Bow Knight			| JID_ボウナイト		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Outlaw				| JID_シーフ			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Adventurer			| JID_アドベンチャラー	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Swordmaster			| JID_剣聖			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Samurai				| JID_侍			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Master of Arms		| JID_兵法者			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Oni Chieftain		| JID_修羅			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Oni Savage			| JID_鬼人			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Blacksmith			| JID_鍛冶			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Spear Master		| JID_槍聖			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Spear Fighter 		| JID_槍術士			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Basara				| JID_婆娑羅			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Diviner				| JID_呪い師			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Onmyoji				| JID_陰陽師			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Monk				| JID_修験者			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Shrine Maiden		| JID_巫女			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Great Master		| JID_山伏			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Priestess			| JID_戦巫女			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Falcon Knight		| JID_聖天馬武者		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Sky Knight			| JID_天馬武者		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Kinshi Knight 		| JID_金鵄武者		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Archer				| JID_弓使い			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Sniper				| JID_弓聖			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Wyvern Lord			| JID_ドラゴンマスター	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Wyvern Rider		| JID_ドラゴンナイト	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Malig Knight		| JID_レヴナントナイト	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Master Ninja		| JID_上忍			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Ninja				| JID_忍			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Mechanist			| JID_絡繰師			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Apothecary			| JID_薬商人			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Merchant			| JID_大商人			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Sorcerer			| JID_ソーサラー		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Dark Mage			| JID_ダークマージ		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Dark Knight			| JID_ダークナイト		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Strategist			| JID_ストラテジスト		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Troubadour			| JID_ロッドナイト		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Butler				| JID_バトラー		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Maid				| JID_メイド			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Wolf Skin			| JID_ガルー			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Wolfssegner			| JID_マーナガルム		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Kitsune				| JID_妖狐			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Nine-Tails			| JID_九尾の狐		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Sonstress			| JID_歌姫			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Villager			| JID_村人			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Lancer				| JID_ランサー			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Faceless			| JID_ノスフェラトゥ		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Stoneborn			| JID_ゴーレム		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Automaton			| JID_絡繰人形		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Astral Dragon		| JID_星竜			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Feral Dragon		| JID_竜			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Blight Dragon		| JID_暗夜竜			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Silent Dragon 1		| JID_透魔竜１		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Silent Dragon 2 	| JID_透魔竜２		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Nohrain King		| JID_ダークロード		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Ematy Vessel		| JID_水の眷属		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Dread Fighter		| JID_魔戦士			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Dark Falvcon		| JID_ダークペガサス	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Ballistician		| JID_シューター		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Witch				| JID_魔女			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Lodestar			| JID_スターロード		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Vanguard			| JID_ヴァンガード		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Great Lord			| JID_マスターロード	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Grandmaster			| JID_神軍師			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Outrealm Class		| JID_不明			| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Lord DLC			| JID_E006_クロム		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Great Knight DLC	| JID_E006_フレデリク	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Cleric DLC			| JID_E006_リズ		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Myrmidon DLC		| JID_E007_ウード		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Mercenary DLC M		| JID_E007_アズール	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Mercenary DLC F 	| JID_E007_セレナ		| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Pegasus Knight DLC	| JID_サイファペガサス	| ---					| ---				| ---				| ---				| ---			| ---			| ---
+Silent Dragon DLC	| JID_E040_透魔竜	| ---					| ---				| ---				| ---				| ---			| ---			| ---
 
 
 
