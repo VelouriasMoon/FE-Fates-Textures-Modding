@@ -1,6 +1,5 @@
-##------------------------------------
-#Character IDs
-##------------------------------------
+# Character IDs
+
 | Ch ID | Name		| AID Kanji |
 | ---	| ---		| ---		|
 ch001	| Corrin (M)| AID_プレイヤー男
@@ -103,9 +102,8 @@ ch318	| Lleweyn	| AID_
 ch319	| Tarba		| AID_
 ch332	| Kumagera	| AID_
 
-##------------------------------------
-#Class IDs 	Male=男	Female=女
-##------------------------------------
+# Class IDs 	Male=男	Female=女
+
 | Class name		| JID Kanji |
 | ---				| --- |
 Nohr Noble			| JID_ダークブラッド
