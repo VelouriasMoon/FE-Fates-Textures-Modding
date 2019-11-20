@@ -104,7 +104,7 @@ ch332	| Kumagera	| AID_
 
 # Class IDs 	Male=男	Female=女
 
-| Class name		| JID Kanji 		| Body Model uBody_M/F_	| Outer Model Udres	| Mount Model		| Mount Outer		| Accessory 1	| Accessory 3	| Accessory 3 |
+| Class name		| JID_[Kanji]Gender	| Body Model uBody_M/F_	| Outer Model Udres	| Mount Model		| Mount Outer		| Accessory 1	| Accessory 3	| Accessory 3 |
 | ---				| --- 				| ---					| ---				| ---				| ---				| ---			| ---			| --- |
 Nohr Noble			| JID_ダークブラッド		| load_2				| load_upp2_0		| ---				| ---				| acc_Shieldloadu2F_(r_arm1) | ---	| ---
 Nohr Prince			| JID_ダークプリンス		| ---					| ---				| ---				| ---				| ---			| ---			| ---
