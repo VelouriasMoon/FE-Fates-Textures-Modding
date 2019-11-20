@@ -104,12 +104,13 @@ ch332	| Kumagera	| AID_
 
 # Class IDs 	Male=男	Female=女
 
-| Class name		| JID_[Kanji]Gender	| Body Model uBody_[M/F]_	| Outer Model Udres_[M/F]_	| Mount Model uRide_R_	| Mount Outer udres_R_	| Accessory 1	| Accessory 3	| Accessory 3 |
-| ---				| --- 				| ---						| ---						| ---					| ---					| ---			| ---			| --- |
-Nohr Noble			| JID_ダークブラッド		| load_2					| load_upp2_0				| ---					| ---					| acc_Shieldloadu2F_(r_arm1) | ---	| ---
-Nohr Prince			| JID_ダークプリンス		| ---						| ---						| ---					| ---					| ---			| ---			| ---
-Nohr Princess		| JID_ダークプリンセス	| ---						| ---						| ---					| ---					| ---			| ---			| ---
-Hoshiden Noble		| JID_白の血族		| ---						| ---						| ---					| ---					| ---			| ---			| ---
+| Class_Name_AntiBoxSquish	| JID_Kanji_AntiBoxSquish	| Body Model uBody_[M/F]_	| Outer Model uDres_[M/F]_	| Mount Model uRide_R_	| Mount Outer udres_R_	| Accessory 1	| Accessory 3	| Accessory 3 |
+| ---						| --- 						| ---						| ---						| ---					| ---					| ---			| ---			| --- |
+Nohr Noble Male				| JID_ダークブラッド男			| uBody_M_load_2			| uDres_M_load_upp2_0		| ---					| ---					| acc_Shieldloadu2M_(r_arm1) | ---	| ---
+Nohr Noble Female			| JID_ダークブラッド女			| uBody_F_load_2			| uDres_F_load_upp2_0		| ---					| ---					| acc_Shieldloadu2F_(r_arm1) | ---	| ---
+Nohr Prince					| JID_ダークプリンス男			| uBody_M_load_0			| uDres_M_load_low1_0		| ---					| ---					| ---			| ---			| ---
+Nohr Princess				| JID_ダークプリンセス女			| uBody_F_load_0			| uDres_F_load_low1_0		| ---					| ---					| ---			| ---			| ---
+Hoshiden Noble		| JID_白の血族		| load_1					| load_upp1_0				| ---					| ---					| acc_Shieldloadu1M_(r_arm1)			| ---			| ---
 Paladin				| JID_パラディン		| ---						| ---						| ---					| ---					| ---			| ---			| ---
 Cavalier			| JID_ソシアルナイト	| ---						| ---						| ---					| ---					| ---			| ---			| ---
 Great Knight		| JID_グレートナイト	| ---						| ---						| ---					| ---					| ---			| ---			| ---
