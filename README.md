@@ -126,92 +126,92 @@ Berserker Male				| JID_バーサーカー男			| uBody_M_warr_0			| uDres_M_war
 Berserker Female			| JID_バーサーカー女			| uBody_F_warr_0			| uDres_F_warr_upp1_0		| ---					| ---					| acc_Hatwarru1F_(head-head)	| ---			| ---
 Fighter Male				| JID_アクスファイター男			| uBody_M_warr_0			| uDres_M_warr_low1_0		| ---					| ---					| acc_Hatwarrl1M_(head)			| acc_warrl1M_(l_arm1#1)		| ---
 Fighter Female				| JID_アクスファイター女			| uBody_F_warr_0			| uDres_F_warr_low1_0		| ---					| ---					| acc_Hatwarrl1F_(head)			| ---			| ---
-Hero Male					| JID_ブレイブヒーロー男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Hero Female					| JID_ブレイブヒーロー女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mercenary Male				| JID_マーシナリー男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mercenary Female			| JID_マーシナリー女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Bow Knight Male				| JID_ボウナイト男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Bow Knight Female			| JID_ボウナイト女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Outlaw Male					| JID_シーフ男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Outlaw Female				| JID_シーフ女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Adventurer Male				| JID_アドベンチャラー男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Adventurer Female			| JID_アドベンチャラー女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Swordmaster Male			| JID_剣聖男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Swordmaster Female			| JID_剣聖女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Samurai Male				| JID_侍男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Samurai Female				| JID_侍女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Master of Arms Male			| JID_兵法者男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Master of Arms Female		| JID_兵法者女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Oni Chieftain Male			| JID_修羅男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Oni Chieftain Female		| JID_修羅女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Oni Savage Male				| JID_鬼人男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Oni Savage Female			| JID_鬼人女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Blacksmith Male				| JID_鍛冶男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Blacksmith Female			| JID_鍛冶女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Spear Master Male			| JID_槍聖男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Spear Master Female			| JID_槍聖女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Spear Fighter Male			| JID_槍術士男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Spear Fighter Female		| JID_槍術士女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Basara Male					| JID_婆娑羅男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Basara Female				| JID_婆娑羅女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Diviner Male				| JID_呪い師男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Diviner Female				| JID_呪い師女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Onmyoji Male				| JID_陰陽師男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Onmyoji Female				| JID_陰陽師女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Monk						| JID_修験者男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Shrine Maiden				| JID_巫女女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Great Master				| JID_山伏男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Priestess					| JID_戦巫女女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Falcon Knight Male			| JID_聖天馬武者男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Falcon Knight Female		| JID_聖天馬武者女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sky Knight Male				| JID_天馬武者男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sky Knight Female			| JID_天馬武者女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Kinshi Knight Male			| JID_金鵄武者男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Kinshi Knight Female		| JID_金鵄武者女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Archer Male					| JID_弓使い男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Archer Female				| JID_弓使い女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sniper Male					| JID_弓聖男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sniper Female				| JID_弓聖女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wyvern Lord Male			| JID_ドラゴンマスター男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wyvern Lord Female			| JID_ドラゴンマスター女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wyvern Rider Male			| JID_ドラゴンナイト男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wyvern Rider Female			| JID_ドラゴンナイト女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Malig Knight Male			| JID_レヴナントナイト男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Malig Knight Female			| JID_レヴナントナイト女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Master Ninja Male			| JID_上忍男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Master Ninja Female			| JID_上忍女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Ninja Male					| JID_忍男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Ninja Female				| JID_忍女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mechanist Male				| JID_絡繰師男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mechanist Female			| JID_絡繰師女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Apothecary Male				| JID_薬商人男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Apothecary Female			| JID_薬商人女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Merchant Male				| JID_大商人男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Merchant Female				| JID_大商人女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sorcerer Male				| JID_ソーサラー男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sorcerer Female				| JID_ソーサラー女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Mage Male				| JID_ダークマージ男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Mage Female			| JID_ダークマージ女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Knight Male			| JID_ダークナイト男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Knight Female			| JID_ダークナイト女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Strategist Male				| JID_ストラテジスト男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Strategist Female			| JID_ストラテジスト女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Troubadour Male				| JID_ロッドナイト男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Troubadour Female			| JID_ロッドナイト女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Butler						| JID_バトラー男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Maid						| JID_メイド女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wolf Skin Male				| JID_ガルー男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wolf Skin Female			| JID_ガルー女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wolfssegner Male			| JID_マーナガルム男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Wolfssegner Female			| JID_マーナガルム女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Kitsune Male				| JID_妖狐男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Kitsune Female				| JID_妖狐女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Nine-Tails Male				| JID_九尾の狐男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Nine-Tails Female			| JID_九尾の狐女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Sonstress					| JID_歌姫女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Villager Male				| JID_村人男					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Villager Female				| JID_村人女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Lancer						| JID_ランサー男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
+Hero Male					| JID_ブレイブヒーロー男			| uBody_M_merk_1			| uDres_M_merk_upp1_0		| ---					| ---					| acc_Hatmerku1M_(head)			| acc_Shieldmerku1M_(l_arm1)	| ---
+Hero Female					| JID_ブレイブヒーロー女			| uBody_F_merk_1			| uDres_F_merk_upp1_0		| ---					| ---					| acc_Hatmerkl1F_(head)			| acc_Shieldmerku1F_(l_arm1)	| ---
+Mercenary Male				| JID_マーシナリー男			| uBody_M_merk_0			| uDres_M_merk_low1_0		| ---					| ---					| acc_Hatmerkl1M_(head)			| acc_Shieldmerkl1M_(l_arm1#3)	| ---
+Mercenary Female			| JID_マーシナリー女			| uBody_F_merk_0			| uDres_F_merk_low1_0		| ---					| ---					| acc_Hatmerkl1F_(head)			| acc_Shieldmerkl1F_(l_arm1#3)	| ---
+Bow Knight Male				| JID_ボウナイト男				| uBody_M_kgt0_1			| uDres_M_kgt0_upp1_0		| uRide_R_hors_0		| uDres_R_kgt0_upp1_0	| acc_Hatkgt0u1M_(head)			| acc_Shieldkgt0u1M_(l_sl)		| ---
+Bow Knight Female			| JID_ボウナイト女				| uBody_F_kgt0_0			| uDres_F_kgt0_upp1_0		| uRide_R_hors_0		| uDres_R_kgt0_upp1_0	| acc_Hatkgt0u1M_(head)			| acc_Shieldkgt0u1F_(l_sl)		| ---
+Outlaw Male					| JID_シーフ男				| uBody_M_roge_0			| uDres_M_roge_low1_0		| ---					| ---					| ---							| ---			| ---
+Outlaw Female				| JID_シーフ女				| uBody_F_roge_0			| uDres_F_roge_low1_0		| ---					| ---					| ---							| ---			| ---
+Adventurer Male				| JID_アドベンチャラー男			| uBody_M_roge_1			| uDres_M_roge_upp1_0		| ---					| ---					| acc_Hatrogeu1M_(head)			| ---			| ---
+Adventurer Female			| JID_アドベンチャラー女			| uBody_F_roge_1			| uDres_F_roge_upp1_0		| ---					| ---					| acc_Hatrogeu1F_(head)			| ---			| ---
+Swordmaster Male			| JID_剣聖男					| uBody_M_swrd_1			| uDres_M_swrd_upp1_0		| ---					| ---					| acc_Hatswrdu1M_(head)			| acc_Shieldswrdu1ML_(l_arm1)	| acc_Shieldswrdu1MR_(r_arm1)
+Swordmaster Female			| JID_剣聖女					| uBody_F_swrd_1			| uDres_F_swrd_upp1_0		| ---					| ---					| acc_Hatswrdu1F_(head)			| acc_Shieldswrdu1FL_(l_arm1)	| acc_Shieldswrdu1FR_(r_arm1)
+Samurai Male				| JID_侍男					| uBody_M_swrd_0			| uDres_M_swrd_low1_0		| ---					| ---					| acc_Hatswrdl1M_(head)			| ---			| ---
+Samurai Female				| JID_侍女					| uBody_F_swrd_0			| uDres_F_swrd_low1_0		| ---					| ---					| acc_Hatswrdl1F_(head)			| ---			| ---
+Master of Arms Male			| JID_兵法者男				| uBody_M_swrd_2			| uDres_M_swrd_upp2_0		| ---					| ---					| acc_Hatswrdu2M_(head)			| ---			| ---
+Master of Arms Female		| JID_兵法者女				| uBody_F_swrd_2			| uDres_F_swrd_upp2_0		| ---					| ---					| acc_Hatswrdu2F_(head)			| ---			| ---
+Oni Chieftain Male			| JID_修羅男					| uBody_M_baba_0			| uDres_M_baba_upp2_0		| ---					| ---					| acc_Headbabau2M_(head)		| acc_BackHyotanM_(hip)			| ---
+Oni Chieftain Female		| JID_修羅女					| uBody_F_baba_0			| uDres_F_baba_upp2_0		| ---					| ---					| acc_Headbabau2M_(head)		| acc_BackHyotanF_(hip)			| ---
+Oni Savage Male				| JID_鬼人男					| uBody_M_baba_0			| uDres_M_baba_low1_0		| ---					| ---					| acc_Maskbabal1M_(head)		| ---			| ---
+Oni Savage Female			| JID_鬼人女					| uBody_F_baba_0			| uDres_F_baba_low1_0		| ---					| ---					| ---							| ---			| ---
+Blacksmith Male				| JID_鍛冶男					| uBody_M_baba_0			| uDres_M_baba_upp1_0		| ---					| ---					| acc_Maskbabau1M_(head)		| ---			| ---
+Blacksmith Female			| JID_鍛冶女					| uBody_F_baba_0			| uDres_F_baba_upp1_0		| ---					| ---					| acc_Maskbabau1M_(head)		| ---			| ---
+Spear Master Male			| JID_槍聖男					| uBody_M_nagi_1			| uDres_M_nagi_upp1_0		| ---					| ---					| acc_Hatnagiu1M_(head)			| acc_Backnagiu1N_(body1)		| ---
+Spear Master Female			| JID_槍聖女					| uBody_F_nagi_1			| uDres_F_nagi_upp1_0		| ---					| ---					| acc_Hatnagiu1F_(head)			| acc_Backnagiu1N_(body1)		| ---
+Spear Fighter Male			| JID_槍術士男				| uBody_M_nagi_0			| uDres_M_nagi_low1_0		| ---					| ---					| acc_Hatnagil1M_(head-hair)	| ---			| ---
+Spear Fighter Female		| JID_槍術士女				| uBody_F_nagi_0			| uDres_F_nagi_low1_0		| ---					| ---					| acc_Hatnagil1F_(head)			| ---			| ---
+Basara Male					| JID_婆娑羅男				| uBody_M_nagi_2			| uDres_M_nagi_upp2_0		| ---					| ---					| acc_Hatnagiu2M_(head)			| ---			| ---
+Basara Female				| JID_婆娑羅女				| uBody_F_nagi_2			| uDres_F_nagi_upp2_0		| ---					| ---					| acc_Hatnagiu2F_(head)			| ---			| ---
+Diviner Male				| JID_呪い師男				| uBody_M_curs_0			| uDres_M_curs_low1_0		| ---					| ---					| acc_Hatcursl1M_(head)			| ---			| ---
+Diviner Female				| JID_呪い師女				| uBody_F_curs_0			| uDres_F_curs_low1_0		| ---					| ---					| acc_Hatcursl1F_(head)			| ---			| ---
+Onmyoji Male				| JID_陰陽師男				| uBody_M_curs_0			| uDres_M_curs_upp1_0		| ---					| ---					| acc_Hatcursu1M_(head)			| ---			| ---
+Onmyoji Female				| JID_陰陽師女				| uBody_F_curs_0			| uDres_F_curs_upp1_0		| ---					| ---					| acc_Hatcursu1F_(head)			| ---			| ---
+Monk						| JID_修験者男				| uBody_M_miko_0			| uDres_M_miko_low1_0		| ---					| ---					| acc_Hatmikol1M_(head)			| ---			| ---
+Shrine Maiden				| JID_巫女女					| uBody_F_miko_0			| uDres_F_miko_low1_0		| ---					| ---					| acc_Hatmikol1F_(head)			| ---			| ---
+Great Master				| JID_山伏男					| uBody_M_miko_0			| uDres_M_miko_upp1_0		| ---					| ---					| acc_Hatmikou1M_(head)			| acc_Shieldmikou1M_(l_arm2)	| ---
+Priestess					| JID_戦巫女女				| uBody_F_miko_0			| uDres_F_miko_upp1_0		| ---					| ---					| acc_Hatmikou1F_(head)			| acc_Shieldmikou1F_(l_arm2)	| ---
+Falcon Knight Male			| JID_聖天馬武者男			| uBody_M_kpeg_1			| uDres_M_kpeg_upp1_0		| uRide_R_kpeg_0		| uDres_R_kpeg_upp1_0	| acc_Hatkpegu1M_(head)			| ---			| ---
+Falcon Knight Female		| JID_聖天馬武者女			| uBody_F_kpeg_1			| uDres_F_kpeg_upp1_0		| uRide_R_kpeg_0		| uDres_R_kpeg_upp1_0	| acc_Hatkpegu1F_(head)			| ---			| ---
+Sky Knight Male				| JID_天馬武者男				| uBody_M_kpeg_0			| uDres_M_kpeg_low1_0		| uRide_R_kpeg_0		| uDres_R_kpeg_low1_0	| acc_Hatkpegl1M_(head)			| ---			| ---
+Sky Knight Female			| JID_天馬武者女				| uBody_F_kpeg_0			| uDres_F_kpeg_low1_0		| uRide_R_kpeg_0		| uDres_R_kpeg_low1_0	| acc_Hatkpegl1F_(head)			| ---			| ---
+Kinshi Knight Male			| JID_金鵄武者男				| uBody_M_kpeg_2			| uDres_M_kpeg_upp2_0		| uRide_R_bird_0		| uDres_R_bird_upp2_0	| ---							| ---			| ---
+Kinshi Knight Female		| JID_金鵄武者女				| uBody_F_kpeg_2			| uDres_F_kpeg_upp2_0		| uRide_R_bird_0		| uDres_R_bird_upp2_0	| acc_Hatkpegu2F_(head)			| ---			| ---
+Archer Male					| JID_弓使い男				| uBody_M_arch_0			| uDres_M_arch_low1_0		| ---					| ---					| acc_Hatarchl1M_(head)			| ---			| ---
+Archer Female				| JID_弓使い女				| uBody_F_arch_0			| uDres_F_arch_low1_0		| ---					| ---					| acc_Hatarchl1F_(head)			| ---			| ---
+Sniper Male					| JID_弓聖男					| uBody_M_arch_0			| uDres_M_arch_upp1_0		| ---					| ---					| acc_Hatarchu1M_(head)			| acc_Shieldarchu1M_(l_arm1)	| ---
+Sniper Female				| JID_弓聖女					| uBody_F_arch_0			| uDres_F_arch_upp1_0		| ---					| ---					| acc_Hatarchu1F_(head)			| acc_Shieldarchu1F_(l_arm1)	| ---
+Wyvern Lord Male			| JID_ドラゴンマスター男			| uBody_M_kdra_1			| uDres_M_kdra_upp1_0		| uRide_R_drag_0		| uDres_R_drag_upp1_0	| acc_Hatkdrau1F_(head)			| acc_kdrau1M_(l_arm1#1)		| ---
+Wyvern Lord Female			| JID_ドラゴンマスター女			| uBody_F_kdra_1			| uDres_F_kdra_upp1_0		| uRide_R_drag_0		| uDres_R_drag_upp1_0	| acc_Hatkdrau1F_(head)			| ---			| ---
+Wyvern Rider Male			| JID_ドラゴンナイト男			| uBody_M_kdra_0			| uDres_M_kdra_low1_0		| uRide_R_drag_0		| uDres_R_drag_low1_0	| acc_Hatkdral1F_(head-head)	| ---			| ---
+Wyvern Rider Female			| JID_ドラゴンナイト女			| uBody_F_kdra_0			| uDres_F_kdra_low1_0		| uRide_R_drag_0		| uDres_R_drag_low1_0	| acc_Hatkdral1F_(head-head)	| ---			| ---
+Malig Knight Male			| JID_レヴナントナイト男			| uBody_M_kdra_2			| uDres_M_kdra_upp2_0		| uRide_R_drag_1		| uDres_R_drag_upp2_0	| acc_Hatkdrau2F_(head-head)	| ---			| ---
+Malig Knight Female			| JID_レヴナントナイト女			| uBody_F_kdra_2			| uDres_F_kdra_upp2_0		| uRide_R_drag_1		| uDres_R_drag_upp2_0	| acc_Hatkdrau2F_(head-head)	| ---			| ---
+Master Ninja Male			| JID_上忍男					| uBody_M_nija_1			| uDres_M_nija_upp1_0		| ---					| ---					| acc_Hatnijau1M_(head)			| ---			| ---
+Master Ninja Female			| JID_上忍女					| uBody_F_nija_0			| uDres_F_nija_upp1_0		| ---					| ---					| acc_Hatnijau1F_(head)			| ---			| ---
+Ninja Male					| JID_忍男					| uBody_M_nija_0			| uDres_M_nija_low1_0		| ---					| ---					| acc_Hatnijal1M_(head)			| ---			| ---
+Ninja Female				| JID_忍女					| uBody_F_nija_0			| uDres_F_nija_low1_0		| ---					| ---					| acc_Hatnijal1F_(head)			| ---			| ---
+Mechanist Male				| JID_絡繰師男				| uBody_M_folk_3			| uDres_M_folk_upp3_0		| uRide_R_krkr_0		| uDres_R_krkr_upp2_0	| acc_Hatfolku3M_(head)			| acc_HeadkrkrR_(front_head)	| ---
+Mechanist Female			| JID_絡繰師女				| uBody_F_folk_3			| uDres_F_folk_upp3_0		| uRide_R_krkr_0		| uDres_R_krkr_upp2_0	| acc_Hatfolku3F_(head)			| acc_HeadkrkrR_(front_head)	| ---
+Apothecary Male				| JID_薬商人男				| uBody_M_folk_1			| uDres_M_folk_upp1_0		| ---					| ---					| acc_Hatfolku1M_(head)			| acc_Bagfolku1N_(body2#1)		| ---
+Apothecary Female			| JID_薬商人女				| uBody_F_folk_1			| uDres_F_folk_upp1_0		| ---					| ---					| acc_Hatfolku1F_(head)			| acc_Bagfolku1N_(body2#1)		| ---
+Merchant Male				| JID_大商人男				| uBody_M_folk_2			| uDres_M_folk_upp2_0		| ---					| ---					| acc_Hatfolku2M_(head)			| ---			| ---
+Merchant Female				| JID_大商人女				| uBody_F_folk_2			| uDres_F_folk_upp2_0		| ---					| ---					| acc_Hatfolku2F_(head)			| ---			| ---
+Sorcerer Male				| JID_ソーサラー男				| uBody_M_magi_1			| uDres_M_magi_upp1_0		| ---					| ---					| acc_Hatmagiu1M_(head)			| ---			| ---
+Sorcerer Female				| JID_ソーサラー女				| uBody_F_magi_1			| uDres_F_magi_upp1_0		| ---					| ---					| acc_Hatmagiu1F_(head)			| ---			| ---
+Dark Mage Male				| JID_ダークマージ男			| uBody_M_magi_0			| uDres_M_magi_low1_0		| ---					| ---					| acc_Hatmagil1M_(head)			| ---			| ---
+Dark Mage Female			| JID_ダークマージ女			| uBody_F_magi_0			| uDres_F_magi_low1_0		| ---					| ---					| acc_Hatmagil1F_(head)			| ---			| ---
+Dark Knight Male			| JID_ダークナイト男			| uBody_M_kgt1_1			| uDres_M_kgt1_upp1_0		| uRide_R_hors_0		| uDres_R_kgt1_upp1_0	| acc_Hatkgt1u1F_(head-head)	| ---			| ---
+Dark Knight Female			| JID_ダークナイト女			| uBody_F_kgt1_1			| uDres_F_kgt1_upp1_0		| uRide_R_hors_0		| uDres_R_kgt1_upp1_0	| acc_Hatkgt1u1F_(head-hair)	| ---			| ---
+Strategist Male				| JID_ストラテジスト男			| uBody_M_kgt0_0			| uDres_M_kgt0_upp2_0		| uRide_R_hors_0		| uDres_R_kgt0_upp2_0	| acc_Hatkgt0u2M_(head)			| ---			| ---
+Strategist Female			| JID_ストラテジスト女			| uBody_F_kgt0_0			| uDres_F_kgt0_upp2_0		| uRide_R_hors_0		| uDres_R_kgt0_upp2_0	| acc_Hatkgt0u2F_(head)			| ---			| ---
+Troubadour Male				| JID_ロッドナイト男			| uBody_M_kgt0_0			| uDres_M_kgt0_low2_0		| uRide_R_hors_0		| uDres_R_kgt0_low2_0	| acc_Hatkgt0l2M_(head)			| ---			| ---
+Troubadour Female			| JID_ロッドナイト女			| uBody_F_kgt0_0			| uDres_F_kgt0_low2_0		| uRide_R_hors_0		| uDres_R_kgt0_low2_0	| acc_Hatkgt0l2F_(head)			| ---			| ---
+Butler						| JID_バトラー男				| uBody_M_butl_0			| uDres_M_butl_low1_0		| ---					| ---					| ---							| ---			| ---
+Maid						| JID_メイド女				| uBody_F_maid_0			| uDres_F_maid_low1_0		| ---					| ---					| acc_Headch119F_(head#1)		| ---			| ---
+Wolf Skin Male				| JID_ガルー男				| uBody_M_garu_1			| uDres_M_garu_low1_1		| ---					| ---					| acc_Tailgarul1M_(body1#0$0)	| ---			| ---
+Wolf Skin Female			| JID_ガルー女				| uBody_F_garu_0			| ---						| ---					| ---					| acc_Tailgarul1F_(body1#0$0)	| ---			| ---
+Wolfssegner Male			| JID_マーナガルム男			| uBody_M_garu_2			| uDres_M_garu_upp1_2		| ---					| ---					| acc_Tailgaruu1M_(body1#0$0)	| ---			| ---
+Wolfssegner Female			| JID_マーナガルム女			| uBody_F_garu_0			| ---						| ---					| ---					| acc_Tailgaruu1F_(body1#0$0)	| ---			| ---
+Kitsune Male				| JID_妖狐男					| uBody_M_foxn_1			| uDres_M_foxn_low1_1		| ---					| ---					| acc_Tailfoxyl1ch106_(hip$0#0)	| acc_Hatfoxnl1M_(head-hair)	| ---
+Kitsune Female				| JID_妖狐女					| uBody_F_foxn_0			| ---						| ---					| ---					| acc_Tailfoxyl1ch147_(hip$0#0)	| ---			| ---
+Nine-Tails Male				| JID_九尾の狐男				| uBody_M_foxn_2			| uDres_M_foxn_upp1_2		| ---					| ---					| acc_Tailfoxyu1M_(hip$0#0)		| acc_Hatfoxnu1M_(head-hair)	| ---
+Nine-Tails Female			| JID_九尾の狐女				| uBody_F_foxn_0			| ---						| ---					| ---					| acc_Tailfoxyl1ch147_(hip$0#0)	| ---			| ---
+Sonstress					| JID_歌姫女					| uBody_F_star_0			| uDres_F_star_low1_0		| ---					| ---					| ---							| ---			| ---
+Villager Male				| JID_村人男					| uBody_M_folk_0			| uDres_M_folk_low1_0		| ---					| ---					| acc_Hatfolkl1M_(head#1)		| ---			| ---
+Villager Female				| JID_村人女					| uBody_F_folk_0			| uDres_F_folk_low1_0		| ---					| ---					| acc_Hatfolkl1F_(head#1)		| ---			| ---
+Lancer						| JID_ランサー男				| uBody_M_kgt0_0			| uDres_M_kgt0_low1_0		| ---					| ---					| acc_Hatkgt0l1M_(head)			| acc_Shieldkgt0l1M_(l_arm2)	| ---
 Faceless					| JID_ノスフェラトゥ男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
 Stoneborn					| JID_ゴーレム男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
 Automaton					| JID_絡繰人形男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
@@ -223,24 +223,24 @@ Silent Dragon 1				| JID_透魔竜１男				| ---						| ---						| ---					| --
 Silent Dragon 2 			| JID_透魔竜２男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
 Nohrain King				| JID_ダークロード男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
 Ematy Vessel				| JID_水の眷属男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dread Fighter Male			| JID_魔戦士男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dread Fighter Female		| JID_魔戦士女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Falcon Male			| JID_ダークペガサス男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Dark Falcon Female			| JID_ダークペガサス女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Ballistician				| JID_シューター男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Witch						| JID_魔女女					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Lodestar					| JID_スターロード男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Vanguard					| JID_ヴァンガード男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Great Lord					| JID_マスターロード女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Grandmaster					| JID_神軍師男				| ---						| ---						| ---					| ---					| ---							| ---			| ---
+Dread Fighter Male			| JID_魔戦士男				| uBody_M_nija_2			| uDres_M_nija_upp2_0		| ---					| ---					| acc_Wepnijau2M_(body2)		| acc_Shieldnijau2M_(l_arm1#1)	| ---
+Dread Fighter Female		| JID_魔戦士女				| uBody_F_nija_1			| uDres_F_nija_upp2_0		| ---					| ---					| acc_Wepnijau2M_(body2)		| acc_Shieldnijau2F_(l_arm1#1)	| ---
+Dark Falcon Male			| JID_ダークペガサス男			| uBody_M_kgt1_2			| uDres_M_kgt0_upp3_0		| uRide_R_kpeg_0		| uDres_R_kgt0_upp3_0	| acc_Hatkgt0u3F_(head-hair)	| ---			| ---
+Dark Falcon Female			| JID_ダークペガサス女			| uBody_F_kgt0_0			| uDres_F_kgt0_upp3_0		| uRide_R_kpeg_0		| uDres_R_kgt0_upp3_0	| acc_Hatkgt0u3F_(head-hair)	| ---			| ---
+Ballistician				| JID_シューター男				| uBody_M_kgt0_0			| ---						| uRide_R_shot_0		| ---					| ---							| ---			| ---
+Witch						| JID_魔女女					| uBody_F_majo_0			| ---						| ---					| ---					| ---							| ---			| ---
+Lodestar					| JID_スターロード男			| uBody_M_Ambo_0_ch200		| uDres_M_Ambo_upp1_0_ch200	| ---					| ---					| ---							| ---			| ---
+Vanguard					| JID_ヴァンガード男			| uBody_M_Ambo_0_ch201		| uDres_M_Ambo_upp1_0_ch201	| ---					| ---					| acc_ArmorAmiboch201M_(l_arm1#3)	| ---			| ---
+Great Lord					| JID_マスターロード女			| uBody_F_Ambo_0_ch203		| uDres_F_Ambo_upp1_0_ch203	| ---					| ---					| ---							| ---			| ---
+Grandmaster					| JID_神軍師男				| uBody_M_Ambo_0_ch202		| uBody_M_Ambo_0_ch202		| ---					| ---					| ---							| ---			| ---
 Outrealm Class				| JID_不明					| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Lord DLC					| JID_E006_クロム男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Great Knight DLC			| JID_E006_フレデリク男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Cleric DLC					| JID_E006_リズ女				| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Myrmidon DLC				| JID_E007_ウード男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mercenary DLC Male			| JID_E007_アズール男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Mercenary DLC  Female		| JID_E007_セレナ女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
-Pegasus Knight DLC			| JID_サイファペガサス女			| ---						| ---						| ---					| ---					| ---							| ---			| ---
+Lord DLC					| JID_E006_クロム男			| uBody_M_DLCn_0_ch204		| ---						| ---					| ---					| ---							| ---			| ---
+Great Knight DLC			| JID_E006_フレデリク男			| uBody_M_DLCn_0_ch206		| ---						| uRide_R_hors_0		| uDres_R_khvy_upp2_0	| ---							| ---			| ---
+Cleric DLC					| JID_E006_リズ女				| uBody_F_DLCn_0_ch205		| ---						| ---					| ---					| ---							| ---			| ---
+Myrmidon DLC				| JID_E007_ウード男			| uBody_M_DLCn_0_ch207		| ---						| ---					| ---					| ---							| ---			| ---
+Mercenary DLC Male			| JID_E007_アズール男			| uBody_M_DLCn_0_ch208		| ---						| ---					| ---					| ---							| ---			| ---
+Mercenary DLC  Female		| JID_E007_セレナ女			| uBody_F_DLCn_0_ch209		| ---						| ---					| ---					| ---							| ---			| ---
+Pegasus Knight DLC			| JID_サイファペガサス女			| uBody_F_Skpeg_0			| uDres_F_Skpeg_low1_0		| uRide_R_Skpeg_0		| uDres_R_Skpeg_low1_0	| ---							| ---			| ---
 Silent Dragon DLC			| JID_E040_透魔竜男			| ---						| ---						| ---					| ---					| ---							| ---			| ---
 
 
